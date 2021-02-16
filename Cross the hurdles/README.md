@@ -1,0 +1,3 @@
+HELIX JUMP
+
+This game is adapted from the famous game Helix Jump available on android and ios. So i decided to make the windows version of this game as you know #WindowsUsersLivesMatter. This wil be a very basic game. When you start the game there will be two rectangles at the bottom having a random x position. They will change their x position based on FPS. There will be a ball on the top of the screen which will be controled by the user. The user can move it towards left or right using the left and right arrow keys. If they hit the recatngles then they will die and if the pass through the left space of the rectangles then they will pass. There will be a score bar to keep record of the score of the user.
